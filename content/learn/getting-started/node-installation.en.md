@@ -5,6 +5,7 @@ description: 'How you can install Node.js on your system: a package manager, the
 authors: flaviocopes, ZYSzys, ollelauribostrom, MylesBorins, fhemberger, LaRuaNa, ahmadawais, benhalverson, ovflowd
 category: learn
 ---
+<br>
 
 Node.js can be installed in different ways. This post highlights the most common and convenient ones. Official packages for all the major platforms are available at [https://nodejs.dev/download/](/download/).
 
